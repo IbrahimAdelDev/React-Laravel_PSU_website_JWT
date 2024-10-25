@@ -1,0 +1,58 @@
+.formparent{
+    background-color: #26263d;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+label{
+    color:white;
+}
+
+.formrow{
+    height: 85.58vh;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #07071c; */
+    background-image: linear-gradient(#07071c, rgb(87, 1, 119));
+    margin-top: 100px;
+}
+
+.hi{
+    width: 100%;
+    height: calc(100vh - 100px);
+    /* margin-top: 200px; */
+    /* background-color: aquamarine; */
+    background-image: url(".\\images\\university.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* opacity: 0.9; */
+}
+.hipar{
+    height: calc(200vh - 200px);
+    margin-top: 100px;
+}
+
+
+#h1{
+    color: white;
+}
+.bottomim{
+    height: calc(100vh - 100px);
+    width: 100%;
+    background-image: linear-gradient(#07071c, rgb(87, 1, 119));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#h2{
+    color: white;
+}

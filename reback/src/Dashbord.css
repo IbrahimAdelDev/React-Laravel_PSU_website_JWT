@@ -1,0 +1,54 @@
+.dashparent{
+    /* height: 85.58vh; */
+    width: 100%;
+    /* background-color: #07071c; */
+    background-image: linear-gradient(#07071c, rgb(87, 1, 119));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.formdash{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formdashparent{
+    background-color: #26263d;
+    margin: 46.5px 0px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.flx{
+    display: flex;
+}
+
+.pading{
+    padding: 50px;
+}
+
+.inputnotbyttom{
+    margin-bottom: 50px;
+}
+
+label{
+    color:white;
+}
+
+/* @media (max-width: 576px) {
+    .dashparent {
+      height: 200vh; 
+    }
+  } */
+
+.link{
+    color: rgb(144, 142, 142);
+}
+
+.link:hover{
+    color: white;
+}
